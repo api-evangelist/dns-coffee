@@ -1,31 +1,39 @@
 aid: dns-coffee
-name: DNS Coffee
-description: >-
-  Documentation of DNS Coffee API.This API allows querying the zone file
-  collection maintained by DNS Coffee. 
-type: Index
-position: Consumer
-access: 3rd-Party
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
-created: '2025-02-09'
-modified: '2025-02-09'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/dns-coffee/refs/heads/main/apis.yml
-specificationVersion: '0.19'
 apis:
   - aid: dns-coffee:dns-coffee
-    name: DNS Coffee
+    name: DNS Coffee API
+    tags:
+      - API
+    humanURL: ' https://api.dns.coffee/doc/'
+    properties:
+      - url: ' https://api.dns.coffee/doc/'
+        type: Documentation
     description: >-
       Documentation of DNS Coffee API.This API allows querying the zone file
       collection maintained by DNS Coffee. 
-    humanURL: ' https://api.dns.coffee/doc/'
-    tags:
-      - API
-    properties:
-      - type: Documentation
-        url: ' https://api.dns.coffee/doc/'
+name: DNS Coffee
+tags:
+  - API
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-02-09'
+modified: '2025-03-27'
+position: Consumer
+description: >-
+  DNS Coffee is a specialty coffee shop that offers a unique and curated
+  selection of artisanal coffees from around the world. With a focus on quality
+  and sustainability, DNS Coffee sources their beans from small-batch roasters
+  who prioritize ethical and fair trade practices. Customers can enjoy a variety
+  of brewing methods, including pour-over, cold brew, and espresso, all expertly
+  crafted by knowledgeable baristas. The cozy and inviting atmosphere of DNS
+  Coffee makes it the perfect spot to relax, study, or meet with friends while
+  sipping on a delicious cup of coffee. Whether you are a coffee connoisseur or
+  just looking for a great cup of joe, DNS Coffee is sure to satisfy your
+  caffeine cravings.
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
+specificationVersion: '0.19'
