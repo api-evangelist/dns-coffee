@@ -43,3 +43,16 @@ maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
 specificationVersion: '0.19'
+common:
+  - name: DNS Coffee API Documentation
+    description: 'null'
+    url: https://api.dns.coffee/doc/
+    type: Documentation
+  - name: home - DNS Coffee
+    description: 'null'
+    url: https://dns.coffee/
+    type: Website
+  - name: about - DNS Coffee
+    description: 'null'
+    url: https://dns.coffee/about
+    type: About
