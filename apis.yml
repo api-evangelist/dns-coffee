@@ -29,7 +29,7 @@ type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2025-02-09'
-modified: '2025-03-27'
+modified: '2026-03-16'
 position: Consuming
 description: >-
   DNS Coffee collects, analyzes, and archives changes to root zone files
@@ -41,7 +41,7 @@ description: >-
   data from over 1,200 zones daily. 
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
   - name: DNS Coffee API Documentation
