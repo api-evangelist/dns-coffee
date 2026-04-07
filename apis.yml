@@ -5,8 +5,8 @@ apis:
   - aid: dns-coffee:dns-coffee
     name: DNS Coffee API
     tags:
-      - Domain Names
       - DNS
+      - Domain Names
       - Domains
     humanURL: ' https://api.dns.coffee/doc/'
     properties:
@@ -22,8 +22,8 @@ apis:
       zones daily.
 name: DNS Coffee
 tags:
-  - Domain Names
   - DNS
+  - Domain Names
   - Domains
 type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
