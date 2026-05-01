@@ -16,7 +16,7 @@ DNS Coffee collects, analyzes, and archives changes to root zone files provided 
 ## Timestamps
 
 - **Created:** 2025-02-09 
-- **Modified:** 2025-03-27 
+- **Modified:** 2026-04-28 
 
 ## APIs
 
@@ -44,5 +44,5 @@ DNS Coffee collects, analyzes, and archives changes to root zone files provided 
 
 **FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
 
