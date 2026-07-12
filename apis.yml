@@ -43,6 +43,10 @@ maintainers:
     email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
+  - type: VulnerabilityDisclosure
+    url: security/dns-coffee-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/dns-coffee-domain-security.yml
   - name: DNS Coffee API Documentation
     description: 'null'
     url: https://api.dns.coffee/doc/
