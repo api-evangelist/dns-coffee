@@ -1,4 +1,4 @@
-# DNS Coffee (dns-coffee)
+# DNS Coffee
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,49 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DNS Coffee collects, analyzes, and archives changes to root zone files provided by various top-level domains (TLDs), offering one of the most comprehensive views of the current state of the Domain Name System (DNS). By continuously tracking these changes, DNS Coffee uncovers valuable trends over time, making it a powerful resource for analysis and research. What began in 2011 with just 4 zones has grown into a robust platform that now processes data from over 1,200 zones daily. 
+DNS Coffee collects, analyzes, and archives changes to root zone files provided by various top-level domains (TLDs), offering one of the most comprehensive views of the current state of the Domain Name System (DNS). By continuously tracking these changes, DNS Coffee uncovers valuable trends over time, making it a powerful resource for analysis and research. What began in 2011 with just 4 zones has grown into a robust platform that now processes data from over 1,200 zones daily.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/dns-coffee/refs/heads/main/apis.yml)
+**Areas:** DNS · Domain Names · Domains
 
-## Scope
+## DNS Coffee on APIs.io
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for DNS Coffee is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dns-coffee/](https://apis.io/providers/dns-coffee/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Domain Names, DNS, Domains
+- [DNS Coffee API](https://apis.io/apis/dns-coffee/dns-coffee/) — DNS Coffee collects, analyzes, and archives changes to root zone files provided by various top-level domains (TLDs), offering one of the most comprehensive…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-02-09 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (2)
 
-### DNS Coffee API
-DNS Coffee collects, analyzes, and archives changes to root zone files provided by various top-level domains (TLDs), offering one of the most comprehensive views of the current state of the Domain Name System (DNS). By continuously tracking these changes, DNS Coffee uncovers valuable trends over time, making it a powerful resource for analysis and research. What began in 2011 with just 4 zones has grown into a robust platform that now processes data from over 1,200 zones daily. 
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [ https://api.dns.coffee/doc/]( https://api.dns.coffee/doc/)
+- [Dns Coffee Domain Security](https://apis.io/security/dns-coffee/dns-coffee-domain-security/)
+- [Dns Coffee Vulnerability Disclosure](https://apis.io/security/dns-coffee/dns-coffee-vulnerability-disclosure/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Domain Names, DNS, Domains
+- [Dns Coffee Plans Pricing](https://apis.io/plans/dns-coffee/dns-coffee-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation]( https://api.dns.coffee/doc/)
+Published request limits.
 
-## Common Properties
+- [Dns Coffee Rate Limits](https://apis.io/rate-limits/dns-coffee/dns-coffee-rate-limits/)
 
-- [Documentation](https://api.dns.coffee/doc/)
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Dns Coffee Finops](https://apis.io/finops/dns-coffee/dns-coffee-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://dns.coffee/)
-- [About](https://dns.coffee/about)
+- [Documentation](https://api.dns.coffee/doc/)
+- [Blog](https://dns.coffee/news)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dns-coffee/](https://apis.io/providers/dns-coffee/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DNS Coffee: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dns-coffee/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
